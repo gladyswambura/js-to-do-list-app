@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": "hro3wd-2eus-akgo-banwu9",
+      "timestamp": "2022-7-2 20:55:46",
+      "body": "todaytoday",
+      "status": "Not complete"
+    },
+    {
+      "id": "y0nc1b-bbza-kzgi-2awgjo",
+      "timestamp": "2022-7-2 20:56:7",
+      "body": "Project 6",
+      "status": "Not complete"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
